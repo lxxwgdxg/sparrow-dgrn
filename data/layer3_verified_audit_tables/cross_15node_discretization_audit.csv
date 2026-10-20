@@ -1,0 +1,9 @@
+forcing,rule,eta_thr,linzhen_nse,linzhen_pbias,xinshihe_nse,xinshihe_pbias
+local,N11_default_0.67,0.67,0.713,2.155,0.391,-3.517
+local,N15_subdivided_0.60,0.6,0.707,3.905,0.384,-3.542
+local,N16_naive_step_0.28,0.28,0.671,11.072,0.362,-3.568
+local,N16_subdivided_confluence_0.55,0.55,0.704,4.704,0.381,-3.55
+public,N11_default_0.67,0.67,0.578,1.947,0.46,-0.07
+public,N15_subdivided_0.60,0.6,0.571,3.753,0.455,0.048
+public,N16_naive_step_0.28,0.28,0.526,11.008,0.435,0.346
+public,N16_subdivided_confluence_0.55,0.55,0.568,4.577,0.452,0.102

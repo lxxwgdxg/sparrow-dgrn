@@ -1,0 +1,16 @@
+basin,gauge_id,node_id,role,is_outlet,n_upstream_nodes,n_zero_weight_nodes,cum_area_km2,zero_weight_area_km2,zero_weight_area_pct,eta_gauge_node,eta_thr,area_weighted_phi_scale,alpha_up,alpha_sdkr,area_weighted_alpha,runoff_weighted_alpha,realized_ledger_gain_G
+fenchuan,fenchuan_Linzhen,8,internal_river,False,8,7,1296.2,1115.5,86.06,0.7826,0.67,0.2171,0.4433,0.6448,0.487,0.4816,0.4816
+fenchuan,fenchuan_Xinshihe,11,combined_export,True,11,7,1656.3,1115.5,67.35,1.0,0.67,1.0,0.4433,0.6448,0.6448,0.6503,0.6503
+hulu,hulu_Longde,11,internal_river,False,1,1,209.3,209.3,100.0,0.0213,0.28,0.0,0.22,0.7639,0.22,0.22,0.22
+hulu,hulu_Renda,24,excluded_intermittent_tributary,False,4,4,1247.2,1247.2,100.0,0.127,0.28,0.0,0.22,0.7639,0.22,0.22,0.22
+hulu,hulu_Jingning,28,internal_river,False,9,7,3065.9,2402.3,78.36,0.3121,0.28,0.0768,0.22,0.7639,0.2617,0.2655,0.2655
+hulu,hulu_Qinan,35,combined_export,True,35,26,9823.6,8009.3,81.53,1.0,0.28,1.0,0.22,0.7639,0.7639,0.7419,0.7419
+shiwang,shiwang_Dacun,16,combined_export,True,16,13,2260.3,1954.6,86.48,1.0,0.28,1.0,0.7599,0.7599,0.7599,0.7599,0.7599
+xinshui,xinshui_Daning,17,combined_export,True,17,13,4038.4,3314.1,82.06,1.0,0.28,1.0,0.8231,0.8231,0.8231,0.8231,0.8231
+beiluo,beiluo_Wuqi,1,internal_river,False,1,1,3440.3,3440.3,100.0,0.1366,0.28,0.0,0.912,0.912,0.912,0.912,0.912
+beiluo,beiluo_Zhidan,3,internal_river,False,1,1,776.0,776.0,100.0,0.0308,0.28,0.0,0.912,0.912,0.912,0.912,0.912
+beiluo,beiluo_Liujiahe,5,internal_river,False,4,3,7336.5,7135.1,97.25,0.2913,0.28,0.0028,0.912,0.912,0.912,0.912,0.912
+beiluo,beiluo_Zhangcunyi,7,internal_river,False,4,4,4830.6,4830.6,100.0,0.1918,0.28,0.0,0.912,0.912,0.912,0.912,0.912
+beiluo,beiluo_Jiaokouhe,10,internal_river,False,10,7,17876.0,12604.4,70.51,0.7099,0.28,0.4188,0.912,0.912,0.912,0.912,0.912
+beiluo,beiluo_Huangling,11,internal_river,False,3,3,2274.1,2274.1,100.0,0.0903,0.28,0.0,0.912,0.912,0.912,0.912,0.912
+beiluo,beiluo_Zhuangtou,17,combined_export,True,17,12,25182.1,18624.7,73.96,1.0,0.28,1.0,0.912,0.912,0.912,0.912,0.912

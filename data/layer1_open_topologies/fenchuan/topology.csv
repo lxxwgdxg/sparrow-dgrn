@@ -1,0 +1,11 @@
+basin_id,edge_id,from_node_id,to_node_id,from_reach_id,to_reach_id,river_length_km,slope,drainage_area_km2,stream_order,is_headwater,is_outlet
+fenchuan,fenchuan_1_to_6,1,6,1,6,20.46,0.007793780913859117,653.9,2,True,False
+fenchuan,fenchuan_2_to_4,2,4,2,4,13.15,0.009112162844138579,366.1,1,True,False
+fenchuan,fenchuan_3_to_5,3,5,3,5,23.31,0.011515830878289413,318.3,1,True,False
+fenchuan,fenchuan_4_to_6,4,6,4,6,19.23,0.008544000364942647,653.9,2,False,False
+fenchuan,fenchuan_5_to_8,5,8,5,8,15.08,0.010995024936524985,1296.2,2,False,False
+fenchuan,fenchuan_6_to_7,6,7,6,7,14.16,0.009694860501303837,797.2,2,False,False
+fenchuan,fenchuan_7_to_8,7,8,7,8,22.16,0.007677961732855457,1296.2,2,False,False
+fenchuan,fenchuan_8_to_9,8,9,8,9,16.869999999999997,0.008573601614988716,1386.6000000000001,2,False,False
+fenchuan,fenchuan_9_to_10,9,10,9,10,15.420000000000002,0.012839615747691834,1521.6000000000001,2,False,False
+fenchuan,fenchuan_10_to_11,10,11,10,11,10.76,0.01320003519695806,1656.3000000000002,2,False,True

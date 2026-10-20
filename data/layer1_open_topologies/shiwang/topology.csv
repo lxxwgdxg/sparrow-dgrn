@@ -1,0 +1,16 @@
+basin_id,edge_id,from_node_id,to_node_id,from_reach_id,to_reach_id,river_length_km,slope,drainage_area_km2,stream_order,is_headwater,is_outlet
+shiwang,shiwang_1_to_7,1,7,1,7,19.590000000000003,0.009279471903515869,518.1,2,True,False
+shiwang,shiwang_2_to_7,2,7,2,7,17.009999999999998,0.009813261139111325,518.1,2,True,False
+shiwang,shiwang_3_to_8,3,8,3,8,19.09,0.011866940146158297,301.4,1,True,False
+shiwang,shiwang_4_to_11,4,11,4,11,26.53,0.01156589654205636,607.4,2,True,False
+shiwang,shiwang_5_to_9,5,9,5,9,14.99,0.01188809045635107,325.29999999999995,1,True,False
+shiwang,shiwang_6_to_10,6,10,6,10,15.42,0.015109427908052347,312.8,1,True,False
+shiwang,shiwang_7_to_15,7,15,7,15,34.25,0.007097610689841403,1722.0,3,False,False
+shiwang,shiwang_8_to_11,8,11,8,11,25.869999999999997,0.009888327867006417,607.4,2,False,False
+shiwang,shiwang_9_to_12,9,12,9,12,20.7,0.007310937088362939,386.9,1,False,False
+shiwang,shiwang_10_to_13,10,13,10,13,19.93,0.01850177964186804,442.20000000000005,1,False,False
+shiwang,shiwang_11_to_14,11,14,11,14,14.8,0.011771115068255428,1148.8,2,False,False
+shiwang,shiwang_12_to_16,12,16,12,16,10.299999999999999,0.008756834280512112,2260.3,3,False,True
+shiwang,shiwang_13_to_14,13,14,13,14,16.18,0.011348116559484752,1148.8,2,False,False
+shiwang,shiwang_14_to_15,14,15,14,15,10.61,0.026390893206818783,1722.0,3,False,False
+shiwang,shiwang_15_to_16,15,16,15,16,8.54,0.008889812772561685,2260.3,3,False,True

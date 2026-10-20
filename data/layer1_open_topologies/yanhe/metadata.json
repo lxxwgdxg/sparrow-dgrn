@@ -1,0 +1,10 @@
+{
+  "basin": "yanhe",
+  "n_nodes": 29,
+  "total_area_km2": 5927.6,
+  "period": [
+    "2006-01-01",
+    "2021-12-31"
+  ],
+  "data_privacy_note": "River topology and static attributes are derived from open-source DEM/HydroSHEDS/FAO/MODIS products. Proprietary daily Hydrological Yearbook discharge records are replaced in Layer 2 by structure-matched stochastic weather and hydrograph benchmarks."
+}

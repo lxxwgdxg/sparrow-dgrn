@@ -1,0 +1,17 @@
+basin_id,edge_id,from_node_id,to_node_id,from_reach_id,to_reach_id,river_length_km,slope,drainage_area_km2,stream_order,is_headwater,is_outlet
+xinshui,xinshui_1_to_11,1,11,1,11,35.07,0.010590860942840122,929.8999999999999,2,True,False
+xinshui,xinshui_2_to_6,2,6,2,6,28.47,0.009437963945201524,510.7,1,True,False
+xinshui,xinshui_3_to_7,3,7,3,7,15.62,0.01588030521764896,407.79999999999995,1,True,False
+xinshui,xinshui_4_to_8,4,8,4,8,23.67,0.010006618762134259,589.8,1,True,False
+xinshui,xinshui_5_to_9,5,9,5,9,17.38,0.019449749043874566,517.9000000000001,1,True,False
+xinshui,xinshui_6_to_10,6,10,6,10,32.99,0.009876774337027472,697.1,1,False,False
+xinshui,xinshui_7_to_11,7,11,7,11,26.4,0.011849556319487097,929.8999999999999,2,False,False
+xinshui,xinshui_8_to_15,8,15,8,15,39.019999999999996,0.01012499300310484,1890.7,2,False,False
+xinshui,xinshui_9_to_12,9,12,9,12,25.42,0.016574615823727448,768.7,1,False,False
+xinshui,xinshui_10_to_13,10,13,10,13,23.659999999999997,0.016183277260664312,1025.7,1,False,False
+xinshui,xinshui_11_to_16,11,16,11,16,36.83,0.011419696682471905,3128.8,3,False,False
+xinshui,xinshui_12_to_17,12,17,12,17,27.02,0.015057055579272477,4038.4,3,False,True
+xinshui,xinshui_13_to_14,13,14,13,14,32.980000000000004,0.01682031712549713,1294.0,1,False,False
+xinshui,xinshui_14_to_15,14,15,14,15,28.98,0.012065561203826848,1890.7,2,False,False
+xinshui,xinshui_15_to_16,15,16,15,16,2.4,0.03462386725019114,3128.8,3,False,False
+xinshui,xinshui_16_to_17,16,17,16,17,42.75000000000001,0.009112247677483518,4038.4,3,False,True
