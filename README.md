@@ -1,10 +1,4 @@
-# Code and Reproducibility Package (`03_Code_and_Reproducibility`)
-
-**Manuscript Title:** *Preventing upstream spatial compensation in single-dry-year cross-basin streamflow routing via a SPARROW-informed differentiable graph network*  
-**Authors:** Xue Li, Xiao-Yi Liu, Li Wang, and Jian Sha*  
-**Journal:** *Journal of Hydrology*
-
----
+# Code and Reproducibility Package
 
 ## 1. Overview and Three-Layer Architecture
 
